@@ -1,4 +1,4 @@
-### Hi there 👋, Sakhawat Hossen
+### Hi there 👋,
 #### I work with AI and data-driven systems .I love building and researching intelligent models
 ![I work with AI and data-driven systems .I love building and researching intelligent models](https://media.licdn.com/dms/image/v2/D4D16AQGWpuFWH3DKvQ/profile-displaybackgroundimage-shrink_350_1400/B4DZaFlr0VGcAo-/0/1745997972754?e=1767225600&v=beta&t=iFtkWi6qrSVTUH_PciqRbP3CN2kSHh2zIDKpD2--7V8)
 
