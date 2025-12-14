@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  Hi  👋, I'm <b>Sakhawat Hossen</b>
+  Hi There, 👋, I'm <b>Sakhawat Hossen</b>
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/ArafathNihan">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Learner;Always%20Learning%20New%20Things;Building%20Projects%20Everyday&font=Fira%20Code&center=true&width=520&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Engineer;Always%20Learning%20New%20Things;Building%20Projects%20Everyday&font=Fira%20Code&center=true&width=520&height=45">
   </a>
 </p>
 
