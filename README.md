@@ -1,5 +1,27 @@
-### Hi there 👋,
-#### I work with AI and data-driven systems .I love building and researching intelligent models
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true" />
+</div>
+
+<h3 align="center">
+  Hi 👋, I'm <b>Arafath Nihan</b>
+</h3>
+
+<p align="center">
+  <b>I work with AI and data-driven systems .I love building and researching intelligent models</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ArafathNihan">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Machine%20Learning%20Learner;Always%20Learning%20New%20Things;Building%20Projects%20Everyday&font=Fira%20Code&center=true&width=520&height=45">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArafathNihan&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
 ![I work with AI and data-driven systems .I love building and researching intelligent models](https://media.licdn.com/dms/image/v2/D4D16AQGWpuFWH3DKvQ/profile-displaybackgroundimage-shrink_350_1400/B4DZaFlr0VGcAo-/0/1745997972754?e=1767225600&v=beta&t=iFtkWi6qrSVTUH_PciqRbP3CN2kSHh2zIDKpD2--7V8)
 
 I’m Sakhwat Hossen, a B.Sc Engineering student in Information Communication And Technology at Comilla University.I'm actively exploring opportunities to contribute to AI research, real-world application development, and innovative projects that push the boundaries of what's possible with emerging technologies.
