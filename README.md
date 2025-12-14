@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  Hi 👋, I'm <b>Arafath Nihan</b>
+  Hi  👋, I'm <b>Sakhawat Hossen</b>
 </h3>
 
 <p align="center">
