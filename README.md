@@ -24,7 +24,7 @@
 ---
 ![I work with AI and data-driven systems .I love building and researching intelligent models](https://media.licdn.com/dms/image/v2/D4D16AQGWpuFWH3DKvQ/profile-displaybackgroundimage-shrink_350_1400/B4DZaFlr0VGcAo-/0/1745997972754?e=1767225600&v=beta&t=iFtkWi6qrSVTUH_PciqRbP3CN2kSHh2zIDKpD2--7V8)
 
-I’m Sakhwat Hossen, a B.Sc Engineering student in Information Communication And Technology at Comilla University.I'm actively exploring opportunities to contribute to AI research, real-world application development, and innovative projects that push the boundaries of what's possible with emerging technologies.
+I’m Sakhwat Hossen, a B.Sc Engineering student in Information Technology at Comilla University.I'm actively exploring opportunities to contribute to AI research, real-world application development, and innovative projects that push the boundaries of what's possible with emerging technologies.
 
 Passionate about the future of technology and innovation, I specialize in Machine Learning (ML), Deep 
 Learning (DL), Natural Language Processing (NLP), Large Language Models (LLMs), and Generative AI.
